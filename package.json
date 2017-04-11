@@ -1,0 +1,10 @@
+{
+    "name": "botman",
+    "version": "0.0.1",
+    "description": "Botman discord bot",
+    "repository": "https://github.com/TheNesze/Botman.git",
+    "author": "Zsolt Csáky",
+    "dependencies": {
+        "discord.js": ">=11.0.0"
+    }
+}
