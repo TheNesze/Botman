@@ -1,0 +1,15 @@
+{
+    "err":{
+        "varNotFound":"Nem található a változó: ",
+        "commandNotFound":"Mi ez a parancs? Mert én nem ismerem."
+    },
+    "inf":{
+        "commandPrefix":"Parancs prefix: ",
+        "commandPrefixChanged":"Parancs prefix megváltoztatva a következőre: ",
+        "maxDeleteCount":"Egyszerre legfeljebb 10 üzenetet törölhetsz.",
+        "deleteSuccessful":" üzenet törölve.",
+        "shutdown":"Botman szabadságra ment.",
+        "ready":"OKÉ",
+        "messagesUpdated":"Üzenetek frissítve."
+    }
+}
